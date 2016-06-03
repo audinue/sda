@@ -2,6 +2,10 @@
 
 Simple Data Access for PHP.
 
+## Install
+
+<pre><code>composer require <b>audinue/sda</b></code></pre>
+
 ## Examples
 
 ```php
